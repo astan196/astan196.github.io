@@ -44,7 +44,7 @@ var rules = {
     "I am not interested in names",
   ],
   "~*x sorry ~*y": [
-    "Please don't apologize",
+    "I'll cut you if you apologize",
     "Apologies are not necessary",
     "What feelings do you have when you apologize",
   ],
@@ -84,7 +84,7 @@ var rules = {
     "Have you dreamt of ~y before?",
   ],
   "~*x I dream about ~*y": [
-    "How do you feel about ~y in reality?",
+    "I absoultly do not want to hear it",
   ],
   "~*x dream ~*y": [
     "What does this dream suggest to you?",
@@ -97,7 +97,7 @@ var rules = {
     "Tell me more about your family",
   ],
   "~*x my father ~*y": [
-    "Your father?",
+    "Haha you kiss our father",
     "Does he influence you strongly?",
     "What else comes to mind when you think of your father?",
   ],
